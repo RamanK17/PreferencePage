@@ -1,0 +1,71 @@
+const pageAlignmnet={
+	textAlign:'center'
+}
+const toggleStyle1 ={
+	block: {
+		maxWidth: 150,
+		float :'left',
+		marginTop: 25,
+		marginLeft :45,
+	},
+	toggle: {
+		marginTop:10,
+		marginBottom: 16,
+
+	}
+};
+const toggleStyle2 ={
+	block: {
+		maxWidth: 150,
+		float :'right',
+		marginTop : 25,
+		marginRight: 185,
+	},
+	toggle: {
+		marginTop:10, 
+		marginBottom: 16,
+	}
+};
+const divStyle ={
+	width: '100%'
+};
+const style = {
+	height: 200,
+	width: 900,
+	margin: 6,
+	textAlign: 'left',
+	display: 'inline-block',
+};
+const headStyle={
+	marginLeft: 220,
+	textAlign: 'left'
+
+}
+const style1={
+	margin :15,
+	width: '100%',
+	height:'100%'
+};
+const hospitalityDivStyle={
+	width: '100%',
+}
+const styleDropdown={
+	marginLeft: 80,
+    width: 400  
+}
+const styleFloatLabel={
+	float:'left',
+	width:400
+}
+const styleFloatLabelLeft={
+	float:'left',
+	// marginLeft:28,
+	width:400
+}
+const styleFloatLabelRight={
+	float:'right',
+	marginRight:28,
+    width:400
+}
+
+export default style;
